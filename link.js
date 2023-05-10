@@ -1,1 +1,1 @@
-const offerLink = "https://utbjkjvvjk.vercel.app/";
+const offerLink = "https://v.ht/szIUP";
