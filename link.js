@@ -1,0 +1,1 @@
+const offerLink = "https://utbjkjvvjk.vercel.app/";
